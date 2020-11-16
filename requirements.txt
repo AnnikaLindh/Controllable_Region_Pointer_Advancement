@@ -1,0 +1,11 @@
+ijson==2.3
+numpy==1.16.1
+scikit-image==0.14.1
+opencv-python==4.1.0.25
+speaksee==0.0.1
+tensorflow==1.13.1
+tensorboard==1.13.1
+textblob==0.15.3
+torch==1.1.0
+torchvision==0.3.0
+gdown==3.12.2
