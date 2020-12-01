@@ -2,6 +2,8 @@
 
 If you find this project useful or learned something from it, please cite our paper. :)
 
+Pre-print on arxiv: https://arxiv.org/abs/2011.14901
+
 ---
 
 ##### DEPENDENCIES
