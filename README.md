@@ -2,7 +2,21 @@
 
 If you find this project useful or learned something from it, please cite our paper. :)
 
-Pre-print on arxiv: https://arxiv.org/abs/2011.14901
+Open access paper link: https://www.aclweb.org/anthology/2020.coling-main.174
+
+```
+@inproceedings{lindh_language-driven_2020,
+	address = {Barcelona, Spain (Online)},
+	title = {Language-{Driven} {Region} {Pointer} {Advancement} for {Controllable} {Image} {Captioning}},
+	url = {https://www.aclweb.org/anthology/2020.coling-main.174},
+	booktitle = {Proceedings of the 28th {International} {Conference} on {Computational} {Linguistics}},
+	publisher = {International Committee on Computational Linguistics},
+	author = {Lindh, Annika and Ross, Robert J. and Kelleher, John D.},
+	month = dec,
+	year = {2020},
+	pages = {1922--1935}
+}
+```
 
 ---
 
