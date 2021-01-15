@@ -21,7 +21,9 @@ Open access paper link: https://www.aclweb.org/anthology/2020.coling-main.174
 ---
 
 ##### DEPENDENCIES
- * Python 3.5.3 or later. (Needs to be a build that supports torchvision.)
+ * Python 3.7
+ 
+   (The code still works with Python 3.5.3 but the speaksee metrics library will attempt to install the latest versions of some libraries that now require 3.7+.)
  
  * unzip (apt-get install unzip if it's missing)
  
