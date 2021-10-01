@@ -80,7 +80,7 @@ For chunk stats you need to pip3 install textblob and download NLTK data. You wi
 ###### PREPROCESSING
 
 For preprocessing you will need to download the flickr30k images and the Entities Annotations and Sentences.
-You will need to setup and train the bottom-up net according to the instructions here: https://github.com/peteanderson80/bottom-up-attentionon
+You will need to setup and train the bottom-up net according to the instructions here: https://github.com/peteanderson80/bottom-up-attention
 and using the splits without data contamination for the Flickr30k splits used in the paper (these splits can be downloaded from: https://drive.google.com/uc?id=12OIaDL1bGiuomadZNcONWYe8rsNnX1UF).
 The bottom-up net instructions includes how to build and install a specific version of caffe which is also needed when loading the bottom-up net
 during preprocessing and standalone use.
